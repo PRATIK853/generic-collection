@@ -1,0 +1,16 @@
+D:\OOProject\Generic\ListDemo\ListDemo\bin\Debug\net5.0\ListDemo.exe
+D:\OOProject\Generic\ListDemo\ListDemo\bin\Debug\net5.0\ListDemo.deps.json
+D:\OOProject\Generic\ListDemo\ListDemo\bin\Debug\net5.0\ListDemo.runtimeconfig.json
+D:\OOProject\Generic\ListDemo\ListDemo\bin\Debug\net5.0\ListDemo.runtimeconfig.dev.json
+D:\OOProject\Generic\ListDemo\ListDemo\bin\Debug\net5.0\ListDemo.dll
+D:\OOProject\Generic\ListDemo\ListDemo\bin\Debug\net5.0\ref\ListDemo.dll
+D:\OOProject\Generic\ListDemo\ListDemo\bin\Debug\net5.0\ListDemo.pdb
+D:\OOProject\Generic\ListDemo\ListDemo\obj\Debug\net5.0\ListDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOProject\Generic\ListDemo\ListDemo\obj\Debug\net5.0\ListDemo.AssemblyInfoInputs.cache
+D:\OOProject\Generic\ListDemo\ListDemo\obj\Debug\net5.0\ListDemo.AssemblyInfo.cs
+D:\OOProject\Generic\ListDemo\ListDemo\obj\Debug\net5.0\ListDemo.csproj.CoreCompileInputs.cache
+D:\OOProject\Generic\ListDemo\ListDemo\obj\Debug\net5.0\ListDemo.dll
+D:\OOProject\Generic\ListDemo\ListDemo\obj\Debug\net5.0\ref\ListDemo.dll
+D:\OOProject\Generic\ListDemo\ListDemo\obj\Debug\net5.0\ListDemo.pdb
+D:\OOProject\Generic\ListDemo\ListDemo\obj\Debug\net5.0\ListDemo.genruntimeconfig.cache
+D:\OOProject\Generic\ListDemo\ListDemo\obj\Debug\net5.0\ListDemo.csproj.AssemblyReference.cache
