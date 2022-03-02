@@ -1,0 +1,28 @@
+#UserInfo
+{
+  text-align:center;   
+  font-size: 30px;
+  font-size: large;
+  text-transform: uppercase;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+form
+{
+    margin-top: 30px;
+
+}
+
+table
+{
+  text-align: center; 
+  margin: auto; 
+}
+table{
+  align-self: center;
+}
+
+td{
+  text-align: center;
+  height: 25px;
+}
