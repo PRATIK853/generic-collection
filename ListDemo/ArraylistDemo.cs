@@ -45,7 +45,7 @@ namespace ListDemo
 
             myList.Remove(1); // removing element using actual value
 
-           // myList.RemoveAt(2); //renoving element using index.
+           myList.RemoveAt(2); //renoving element using index.
 
             // Displaying the modified ArrayList
             Console.WriteLine("The ArrayList after Removing elements: ");
